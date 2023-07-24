@@ -13,4 +13,8 @@ You agree not to further copy, publish or distribute any portion of the Dataset.
 
 City University of Hong Kong reserves the right to terminate your access to the Dataset at any time.
 
-The dataset is availale at 
+## Download Link
+
+The dataset is availale at [https://drive.google.com/drive/folders/1grRYNyqpwYyeMY6lTUSohLoxUcesNx7l?usp=drive_link](https://drive.google.com/drive/folders/1grRYNyqpwYyeMY6lTUSohLoxUcesNx7l?usp=drive_link)
+
+NOTE: For privacy protection, please blur the faces if the images or the models appear in any materials that will be published (such as paper, video, poster, etc.)
