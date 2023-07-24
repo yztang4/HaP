@@ -4,7 +4,7 @@ Tang Yingzhi, Zhang Qijian, Hou Junhui
 The official pytorch implementation of HaP.
 
 
-# Agreement
+## Agreement
 The CityuHuman dataset (the "Dataset") is available for non-commercial research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The Dataset may not be reproduced, modified and/or made available in any form to any third party without CityU’s prior written permission.
 
 You agree not to reproduce, modified, duplicate, copy, sell, trade, resell or exploit any portion of the images and any portion of derived data in any form to any third party without CityU's prior written permission.
@@ -15,6 +15,6 @@ City University of Hong Kong reserves the right to terminate your access to the 
 
 ## Download Link
 
-The dataset is availale at [https://drive.google.com/drive/folders/1grRYNyqpwYyeMY6lTUSohLoxUcesNx7l?usp=drive_link](https://drive.google.com/drive/folders/1grRYNyqpwYyeMY6lTUSohLoxUcesNx7l?usp=drive_link)
+The dataset is available at [https://drive.google.com/drive/folders/1grRYNyqpwYyeMY6lTUSohLoxUcesNx7l?usp=drive_link](https://drive.google.com/drive/folders/1grRYNyqpwYyeMY6lTUSohLoxUcesNx7l?usp=drive_link)
 
 NOTE: For privacy protection, please blur the faces if the images or the models appear in any materials that will be published (such as paper, video, poster, etc.)
