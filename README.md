@@ -16,4 +16,5 @@ City University of Hong Kong reserves the right to terminate your access to the 
 ## Download Link
 
 Send an e-mail to TANG (yztang4-c@my.cityu.edu.hk) and CC Prof. Hou (jh.hou@cityu.edu.hk) for the download link.
+
 NOTE: For privacy protection, please blur the faces if the images or the models appear in any materials that will be published (such as paper, video, poster, etc.)
