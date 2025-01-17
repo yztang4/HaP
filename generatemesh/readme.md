@@ -1,5 +1,5 @@
 In this folder, we provide a example:
-"wildpartial.ply" and "wild.ply"
+"wildpartial.ply" and "wildgenerated.ply"
 
 run:
 `python generatemesh.py` 
