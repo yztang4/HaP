@@ -10,7 +10,8 @@ HaP is a single-view human reconstruction framework, it has four modules:
 3. Point Cloud Generation
 4. Depth Replacement
 
-**To train and test HaP, you need to prepare the training data first. Please refer to [2K2K](https://github.com/SangHunHan92/2K2K) or [IntegratedPIFu](https://github.com/kcyt/IntegratedPIFu)**
+**To train and test HaP, you need to prepare the training data first. Please refer to [2K2K](https://github.com/SangHunHan92/2K2K) or [IntegratedPIFu](https://github.com/kcyt/IntegratedPIFu).**
+
 Both [2K2K](https://github.com/SangHunHan92/2K2K) and [IntegratedPIFu](https://github.com/kcyt/IntegratedPIFu) provide detailed rendering script to prepare the RGB images and depth maps. Additional, [IntegratedPIFu](https://github.com/kcyt/IntegratedPIFu) also provides the blender project to prepare the normal map. 
 
 For each module, I provide a folder to run the code. 
