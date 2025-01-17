@@ -18,4 +18,4 @@ Then, you should follow their instructions to prepare the environment and train 
 
 
 
-**At this stage, you should obtain image and partial point cloud pairs, such as 1.png and 1.ply. An example folder containing a pair is provided in the SMPL rectification directory.**
+**At this stage, you should finally obtain image and partial point cloud pairs, such as 1.png and 1.ply. An example folder containing a pair is provided in the SMPL rectification directory.**
