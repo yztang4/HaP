@@ -2,7 +2,7 @@
 
 To train this module, please make sure you have already prepare the data, i.e., RGB images and corrsponding depth maps.   
 
-In the paper, we selected [MIM-Depth-Estimation](https://github.com/SwinTransformer/MIM-Depth-Estimation) to train the depth estimation module. However, there are more better monocular depth estimation methods been proposed, such as [EcoDepth](https://github.com/aradhye2002/ecodepth), [Depth-Anything](https://github.com/LiheYoung/Depth-Anything). Actually, you are free to choose any depth estimation method. In this work, we didn't use normal map during the training, but you can also use the normal map to further improve the performance of depth estimation.
+In the paper, we selected [MIM-Depth-Estimation](https://github.com/SwinTransformer/MIM-Depth-Estimation) to train the depth estimation module. However, more effective monocular depth estimation methods have been proposed, such as [EcoDepth](https://github.com/aradhye2002/ecodepth), [Depth-Anything](https://github.com/LiheYoung/Depth-Anything). Actually, you are free to choose any depth estimation method. In this work, we didn't use normal map during the training, but you can also use the normal map to further improve the performance of depth estimation.
 
 Since our contributions are not focusing on this module, please clone the repositories of these great works to train the depth estimation model.
 
