@@ -15,7 +15,7 @@ Both [2K2K](https://github.com/SangHunHan92/2K2K) and [IntegratedPIFu](https://g
 
 For each module, we provide a folder to run the code. 
 
-In the **generatemesh** folder, we provide an "in-the-wild" image example, you can run the script to see the example generated mesh. 
+In the **generatemesh** folder, we provide an "in-the-wild" image example, you can run the script to see the example generated mesh "wildfinalpossion.ply". 
 
 We sincerely thank the authors of [ICON](https://github.com/YuliangXiu/ICON), [2K2K](https://github.com/SangHunHan92/2K2K),  [IntegratedPIFu](https://github.com/kcyt/IntegratedPIFu), [PDR](https://github.com/ZhaoyangLyu/Point_Diffusion_Refinement), [EcoDepth](https://github.com/aradhye2002/ecodepth) and [MIM-Depth-Estimation](https://github.com/SwinTransformer/MIM-Depth-Estimation) for their excellent work and the released code. Please consider citing their papers.
 
