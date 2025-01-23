@@ -39,14 +39,14 @@ class RefineThuman(data.Dataset):
         input_file = h5py.File(self.input_path, 'r')
         if train:
             # idx = np.random.choice(18000,10)
-            self.depth_pc = np.array((input_file['depth_points'][()]))
+            self.depth_pc = np.array((input_file['condition_points'][()]))
             self.coarse_pc  = np.array((input_file['coarse_pc'][()]))
             self.gt_pc = np.array((input_file['gt_pc'][()]))
         else:
             # idx = np.random.choice(18000,128)
-            self.depth_pc = np.array((input_file['smpl_normal'][()]), dtype=np.float32)
-            self.coarse_pc  = np.array((input_file['person_normal'][()]), dtype=np.float32)[...,:3]
-            self.gt_pc = np.array((input_file['person_normal'][()]), dtype=np.float32)[...,3:]
+            self.depth_pc = np.array((input_file['condition_points'][()]), dtype=np.float32)
+            self.coarse_pc  = np.array((input_file['coarse_pc'][()]), dtype=np.float32)[...,:3]
+            self.gt_pc = np.array((input_file['gt_pc'][()]), dtype=np.float32)[...,3:]
 
         B, N = self.gt_pc.shape[:2]
         self.labels = np.zeros((B,1))
