@@ -16,6 +16,7 @@ If you choose to use [EcoDepth](https://github.com/aradhye2002/ecodepth), please
 
 Then, you should follow their instructions to prepare the environment and train the model. 
 
+Refer to [kornia](https://kornia.readthedocs.io/en/latest/geometry.depth.html) for converting the depth map to point cloud.
 
 
 **At this stage, you should finally obtain image and partial point cloud pairs, such as 1.png and 1.ply. An example folder containing a pair is provided in the SMPL rectification directory.**
