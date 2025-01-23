@@ -45,8 +45,8 @@ class RefineThuman(data.Dataset):
         else:
             # idx = np.random.choice(18000,128)
             self.depth_pc = np.array((input_file['condition_points'][()]), dtype=np.float32)
-            self.coarse_pc  = np.array((input_file['coarse_pc'][()]), dtype=np.float32)[...,:3]
-            self.gt_pc = np.array((input_file['gt_pc'][()]), dtype=np.float32)[...,3:]
+            self.coarse_pc  = np.array((input_file['coarse_pc'][()]), dtype=np.float32)
+            self.gt_pc = np.array((input_file['gt_pc'][()]), dtype=np.float32)
 
         B, N = self.gt_pc.shape[:2]
         self.labels = np.zeros((B,1))
